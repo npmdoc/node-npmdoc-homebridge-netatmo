@@ -1,6 +1,6 @@
 # npmdoc-homebridge-netatmo
 
-#### api documentation for  [homebridge-netatmo (v0.2.0)](https://github.com/planetk/homebridge-netatmo#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-homebridge-netatmo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-homebridge-netatmo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-homebridge-netatmo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-homebridge-netatmo)
+#### basic api documentation for  [homebridge-netatmo (v0.2.0)](https://github.com/planetk/homebridge-netatmo#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-homebridge-netatmo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-homebridge-netatmo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-homebridge-netatmo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-homebridge-netatmo)
 
 #### Netatmo plugin for homebridge: https://github.com/nfarina/homebridge
 
@@ -65,7 +65,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.2.0"
+    "version": "0.2.0",
+    "bin": {}
 }
 ```
 
